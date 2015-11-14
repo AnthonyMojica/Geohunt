@@ -4,16 +4,16 @@ GeoCache Hunt Project (GeoCache.cpp)
 
 This is skeleton code provided as a project development guideline only.  You
 are not required to follow this coding structure.  You are free to implement
-your project however you wish.  
+your project however you wish.
 
 List Team Members Here:
 
-	1.
-	2.
-	3.
-	4.
-	
-NOTES: 
+1.
+2.
+3.
+4.
+
+NOTES:
 
 You only have 32k of program space and 2k of data space.  You must
 use your program and data space wisely and sparingly.  You must also be
@@ -24,22 +24,22 @@ The Arduino GCC sprintf() does not support printing floats or doubles.  You shou
 consider using sprintf(), dtostrf(), strtok() and strtod() for message string
 parsing and converting between floats and strings.
 
-The GPS provides latitude and longitude in degrees minutes format (DDDMM.MMMM).  
+The GPS provides latitude and longitude in degrees minutes format (DDDMM.MMMM).
 You will need convert it to Decimal Degrees format (DDD.DDDD).  The switch on the
 GPS Shield must be set to the "Soft Serial" position, else you will not receive
 any GPS messages.
 
-INFO: 
+INFO:
 
 The AdaFruit Ultimate GPS Shield
-	https://learn.adafruit.com/downloads/pdf/adafruit-ultimate-gps-logger-shield.pdf
-	
+https://learn.adafruit.com/downloads/pdf/adafruit-ultimate-gps-logger-shield.pdf
+
 Links on coordinates and calculations
-	http://www.gpsinformation.org/dale/nav.htm
-	http://www.csgnetwork.com/gpscoordconv.html
-	http://www.movable-type.co.uk/scripts/latlong.html
-	http://www.rapidtables.com/convert/number/degrees-minutes-seconds-to-degrees.htm
-	http://www.rapidtables.com/convert/number/degrees-to-degrees-minutes-seconds.htm
+http://www.gpsinformation.org/dale/nav.htm
+http://www.csgnetwork.com/gpscoordconv.html
+http://www.movable-type.co.uk/scripts/latlong.html
+http://www.rapidtables.com/convert/number/degrees-minutes-seconds-to-degrees.htm
+http://www.rapidtables.com/convert/number/degrees-to-degrees-minutes-seconds.htm
 
 *******************************************************************************
 
@@ -47,8 +47,8 @@ Following is the GPS Shield "GPRMC" Message Structure.  This message is received
 once a second.  You must parse the message to obtain the parameters required for
 the GeoCache project.  GPS provides coordinates in Degrees Minutes (DDDMM.MMMM).
 The coordinates in the following GPRMC sample message, after converting to Decimal
-Degrees format(DDD.DDDDDD) is latitude(23.118757) and longitude(120.274060).  By 
-the way, this coordinate is GlobaTop Technology in Tiawan, who designed and 
+Degrees format(DDD.DDDDDD) is latitude(23.118757) and longitude(120.274060).  By
+the way, this coordinate is GlobaTop Technology in Tiawan, who designed and
 manufactured the GPS Chip.
 
 "$GPRMC,064951.000,A,2307.1256,N,12016.4438,E,0.03,165.48,260406,3.05,W,A*2C/r/n"
@@ -73,19 +73,19 @@ A               // Mode A=Autonomous D=differential E=Estimated
 
 // Required
 #include "Arduino.h"
-
+#include "MyLibrary.h"
 /*
 Configuration settings (optional usage).
 
 You do not need to use these defines, but it makes it easier to enable
 certain capabilities for debugging during the development cycle.  There
 may not be sufficient room in the FLASH or DATA memory to enable all these
-libraries at the same time.  You are only permitted to have NEO_ON, ONE_ON 
+libraries at the same time.  You are only permitted to have NEO_ON, ONE_ON
 and SDC_ON during the GeoCache Treasure Hunt.
 */
 #define NEO_ON 0		// NeoPixelShield
 #define TRM_ON 1		// SerialTerminal
-#define ONE_ON 0		// 1Sheeld
+#define ONE_ON 1		// 1Sheeld
 #define SDC_ON 0		// SecureDigital
 #define GPS_ON 1		// GPSShield (off = simulated)
 
@@ -172,21 +172,21 @@ Get valid GPS message. This function returns ONLY once a second.
 void getGPSMessage(void)
 
 Side affects:
-	Message is placed in global "cstr" string buffer.
+Message is placed in global "cstr" string buffer.
 
 Input:
-	none
+none
 
 Return:
-	none
-	
+none
+
 */
 void getGPSMessage(void)
 {
 	uint8_t x=0, y=0, isum=0;
 
 	memset(cstr, 0, sizeof(cstr));
-		
+	
 	// get nmea string
 	while (true)
 	{
@@ -208,12 +208,12 @@ void getGPSMessage(void)
 				cstr[x-2] = 0;
 
 				// if checksum not found
-				if (cstr[x-5] != '*') 
+				if (cstr[x-5] != '*')
 				{
 					x = 0;
 					continue;
 				}
-								
+				
 				// convert hex checksum to binary
 				isum = strtol(&cstr[x-4], NULL, 16);
 				
@@ -221,7 +221,7 @@ void getGPSMessage(void)
 				for (y=1; y < (x-5); y++) isum ^= cstr[y];
 				
 				// if invalid checksum
-				if (isum != 0) 
+				if (isum != 0)
 				{
 					x = 0;
 					continue;
@@ -241,19 +241,19 @@ Get simulated GPS message once a second.
 This is the same message and coordinates as described at the top of this
 file.  You could edit these coordinates to point to the tree out front (GEOLAT0,
 GEOLON0) to test your distance and direction calculations.  Just note that the
-tree coordinates are in Decimal Degrees format, and the message coordinates are 
+tree coordinates are in Decimal Degrees format, and the message coordinates are
 in Degrees Minutes format.
 
 void getGPSMessage(void)
 
 Side affects:
-	Static GPRMC message is placed in global "cstr" string buffer.
+Static GPRMC message is placed in global "cstr" string buffer.
 
 Input:
-	none
+none
 
 Return:
-	none
+none
 
 */
 void getGPSMessage(void)
@@ -268,7 +268,7 @@ void getGPSMessage(void)
 	
 	memcpy(cstr, "$GPRMC,064951.000,A,2307.1256,N,12016.4438,E,0.03,165.48,260406,3.05,W,A*2C", sizeof(cstr));
 
-	return;	
+	return;
 }
 #endif
 
@@ -278,11 +278,11 @@ Main Program Entry
 int main(void)
 
 Input:
-	none
+none
 
 Return:
-	false
-	
+false
+
 */
 int main(void)
 {
@@ -291,23 +291,23 @@ int main(void)
 	init();
 
 	// init target button
-	
+
 	#if TRM_ON
 	Serial.begin(115200);
-	#endif	
+	#endif
 	
 	#if ONE_ON
-	// init OneShield Shield
+	OneSheeld.begin();
 	#endif
 	
 	#if NEO_ON
 	// init NeoPixel Shield
-	#endif	
+	#endif
 
 	#if SDC_ON
 	/*
 	Initialize the SecureDigitalCard and open a numbered sequenced file
-	name "MyMapNN.txt" for storing your coordinates, where NN is the 
+	name "MyMapNN.txt" for storing your coordinates, where NN is the
 	sequential number of the file.  The filename can not be more than 8
 	chars in length (excluding the ".txt").
 	*/
@@ -319,7 +319,7 @@ int main(void)
 	gps.println(PMTK_SET_NMEA_UPDATE_1HZ);
 	gps.println(PMTK_API_SET_FIX_CTL_1HZ);
 	gps.println(PMTK_SET_NMEA_OUTPUT_RMC);
-	#endif	
+	#endif
 	
 	while (true)
 	{
@@ -345,16 +345,40 @@ int main(void)
 		// set NeoPixel target display
 		#if NEO_ON
 		setNeoPixel(target, heading, distance);
-		#endif		
-	
+		#endif
+		
 		#if ONE_ON
 		// print debug information to OneSheeld Terminal
 		#endif
 
 		#if TRM_ON
 		// print debug information to Serial Terminal
-		Serial.println(cstr);	
-		#endif		
+		//Serial.println(cstr);
+		ParseData(cstr);
+		float theDist = CalculateDistance(DegLong, DegLat, -81.3056f ,28.5953f);
+		
+		char lat[12];
+		dtostrf(DegLat, 4,4,lat);
+		char lon[12];
+		dtostrf(DegLong, 4,4,lon);
+				char co[12];
+				dtostrf(COG, 5,2,co);
+		sprintf(PrintInfo, "La:%s%sLo:%s%sCOG:%s", lat, NSInd, lon, EWInd, co);
+		//Serial.println(PrintInfo);
+		//Serial.println(theDist);
+		
+		Terminal.println(PrintInfo);
+		
+		char dis[12];
+		dtostrf(theDist, 4,4,dis);
+		Terminal.println(dis);
+		
+		float Hopefully0 = CalcBearing(DegLong, DegLat, -81.3056f ,28.5953f);
+		
+				char bearit[12];
+				dtostrf(Hopefully0, 4,4,bearit);
+				Terminal.println(bearit);
+		#endif
 		
 		// if button pressed, set new target
 
