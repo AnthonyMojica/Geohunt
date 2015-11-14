@@ -1,0 +1,1214 @@
+Archive member included to satisfy reference by file (symbol)
+
+F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+                              GeoCache.o (_ZN14HardwareSerial5beginEmh)
+F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+                              GeoCache.o (Serial)
+F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                              F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o) (_ZN5Print5writeEPKhj)
+F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+                              GeoCache.o (init)
+F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(abi.o)
+                              F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o) (__cxa_pure_virtual)
+F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+                              F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o) (yield)
+F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\SOFTWA~1\Debug\libSoftwareSerial.a(SoftwareSerial.o)
+                              GeoCache.o (_ZN14SoftwareSerial4readEv)
+F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                              F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\SOFTWA~1\Debug\libSoftwareSerial.a(SoftwareSerial.o) (pinMode)
+f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+                              F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o) (__udivmodsi4)
+f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+                              F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\SOFTWA~1\Debug\libSoftwareSerial.a(SoftwareSerial.o) (__divmodsi4)
+f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+                              f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o) (__negsi2)
+f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+                              F:/Atmel/7.0/Packs/atmel/ATmega_DFP/1.0.90/gcc/dev/atmega328p/avr5/crtatmega328p.o (exit)
+f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+                              GeoCache.o (__do_copy_data)
+f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+                              GeoCache.o (__do_clear_bss)
+f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+                              GeoCache.o (__do_global_ctors)
+f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_dtors.o)
+                              GeoCache.o (__do_global_dtors)
+f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+                              f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o) (__tablejump2__)
+f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3.o)
+                              F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o) (__subsf3)
+f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+                              f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3.o) (__addsf3x)
+f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+                              F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o) (__ltsf2)
+f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3.o)
+                              F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o) (__divsf3)
+f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+                              f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3.o) (__divsf3x)
+f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+                              F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o) (__fixsfsi)
+f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+                              F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o) (__fixunssfsi)
+f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+                              F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o) (__floatunsisf)
+f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+                              f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(cmpsf2.o) (__fp_cmp)
+f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+                              f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_inf)
+f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+                              f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_nan)
+f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+                              f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscA)
+f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+                              f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_pscB)
+f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_round.o)
+                              f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3.o) (__fp_round)
+f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+                              f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_split3)
+f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+                              f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3x.o) (__fp_zero)
+f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(gesf2.o)
+                              F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o) (__gtsf2)
+f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+                              F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o) (__mulsf3)
+f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+                              f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3.o) (__mulsf3x)
+f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+                              F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o) (__unordsf2)
+f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strtol.o)
+                              GeoCache.o (strtol)
+f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(abort.o)
+                              F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(abi.o) (abort)
+f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(isspace.o)
+                              f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strtol.o) (isspace)
+f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(errno.o)
+                              f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strtol.o) (errno)
+f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+                              f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(isspace.o) (__ctype_isfalse)
+f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulsi3.o)
+                              f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strtol.o) (__mulsi3)
+f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+                              f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulsi3.o) (__muluhisi3)
+f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+                              f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strtol.o) (__prologue_saves__)
+f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+                              f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strtol.o) (__epilogue_restores__)
+f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+                              f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o) (__umulhisi3)
+
+Allocating common symbols
+Common symbol       size              file
+
+errno               0x2               f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(errno.o)
+
+Discarded input sections
+
+ .data          0x00000000        0x0 F:/Atmel/7.0/Packs/atmel/ATmega_DFP/1.0.90/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .bss           0x00000000        0x0 F:/Atmel/7.0/Packs/atmel/ATmega_DFP/1.0.90/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ .text          0x00000000        0x0 GeoCache.o
+ .data          0x00000000        0x0 GeoCache.o
+ .bss           0x00000000        0x0 GeoCache.o
+ .text          0x00000000        0x0 main.o
+ .data          0x00000000        0x0 main.o
+ .bss           0x00000000        0x0 main.o
+ .debug_line    0x00000000        0x0 main.o
+ .debug_str     0x00000000      0x151 main.o
+ .comment       0x00000000       0x31 main.o
+ .group         0x00000000        0x8 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+ .text          0x00000000        0x0 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+ .data          0x00000000        0x0 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+ .bss           0x00000000        0x0 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+ .text._ZN14HardwareSerial3endEv
+                0x00000000       0x38 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+ .text._ZN14HardwareSerial17availableForWriteEv
+                0x00000000       0x24 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+ .text          0x00000000        0x0 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .data          0x00000000        0x0 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .bss           0x00000000        0x0 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .group         0x00000000        0x8 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text          0x00000000        0x0 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .data          0x00000000        0x0 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .bss           0x00000000        0x0 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEPK19__FlashStringHelper
+                0x00000000       0x52 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printERK6String
+                0x00000000       0x1e F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEc
+                0x00000000       0x10 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printERK9Printable
+                0x00000000       0x16 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEPK19__FlashStringHelper
+                0x00000000       0x24 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnERK6String
+                0x00000000       0x24 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEc
+                0x00000000       0x24 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnERK9Printable
+                0x00000000       0x24 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print11printNumberEmh
+                0x00000000       0xe6 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEli
+                0x00000000       0x78 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEii
+                0x00000000       0x10 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEli
+                0x00000000       0x24 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEii
+                0x00000000       0x2e F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEmi
+                0x00000000       0x1e F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEhi
+                0x00000000       0x10 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEji
+                0x00000000        0xe F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEmi
+                0x00000000       0x24 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEji
+                0x00000000       0x2c F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEhi
+                0x00000000       0x2e F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print10printFloatEdh
+                0x00000000      0x216 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print5printEdi
+                0x00000000        0x6 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text._ZN5Print7printlnEdi
+                0x00000000       0x24 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .rodata._ZTV5Print
+                0x00000000        0x8 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .text          0x00000000        0x0 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .data          0x00000000        0x0 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .bss           0x00000000        0x0 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .text.millis   0x00000000       0x18 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .text.micros   0x00000000       0x4c F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .text.delay    0x00000000       0x58 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .text.delayMicroseconds
+                0x00000000       0x16 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .text          0x00000000        0x0 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(abi.o)
+ .data          0x00000000        0x0 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(abi.o)
+ .bss           0x00000000        0x0 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(abi.o)
+ .text.__cxa_pure_virtual
+                0x00000000        0x4 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(abi.o)
+ .text.__cxa_deleted_virtual
+                0x00000000        0x4 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(abi.o)
+ .debug_info    0x00000000       0x8e F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(abi.o)
+ .debug_abbrev  0x00000000       0x5e F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(abi.o)
+ .debug_aranges
+                0x00000000       0x28 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(abi.o)
+ .debug_ranges  0x00000000       0x18 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(abi.o)
+ .debug_line    0x00000000       0x61 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(abi.o)
+ .debug_str     0x00000000      0x199 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(abi.o)
+ .comment       0x00000000       0x31 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(abi.o)
+ .debug_frame   0x00000000       0x34 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(abi.o)
+ .text          0x00000000        0x0 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+ .data          0x00000000        0x0 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+ .bss           0x00000000        0x0 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+ .text.__empty  0x00000000        0x2 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+ .debug_info    0x00000000       0x3e F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+ .debug_abbrev  0x00000000       0x2a F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+ .debug_aranges
+                0x00000000       0x20 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+ .debug_ranges  0x00000000       0x10 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+ .debug_line    0x00000000       0x39 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+ .debug_str     0x00000000      0x129 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+ .comment       0x00000000       0x31 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+ .debug_frame   0x00000000       0x24 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(hooks.o)
+ .group         0x00000000        0x8 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\SOFTWA~1\Debug\libSoftwareSerial.a(SoftwareSerial.o)
+ .text          0x00000000        0x0 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\SOFTWA~1\Debug\libSoftwareSerial.a(SoftwareSerial.o)
+ .data          0x00000000        0x0 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\SOFTWA~1\Debug\libSoftwareSerial.a(SoftwareSerial.o)
+ .bss           0x00000000        0x0 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\SOFTWA~1\Debug\libSoftwareSerial.a(SoftwareSerial.o)
+ .text._ZN14SoftwareSerial4recvEv
+                0x00000000      0x10e F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\SOFTWA~1\Debug\libSoftwareSerial.a(SoftwareSerial.o)
+ .text._ZN14SoftwareSerial11rx_pin_readEv
+                0x00000000        0xe F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\SOFTWA~1\Debug\libSoftwareSerial.a(SoftwareSerial.o)
+ .text._ZN14SoftwareSerial12subtract_capEjj
+                0x00000000       0x12 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\SOFTWA~1\Debug\libSoftwareSerial.a(SoftwareSerial.o)
+ .text._ZN14SoftwareSerial11setRxIntMskEb
+                0x00000000       0x32 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\SOFTWA~1\Debug\libSoftwareSerial.a(SoftwareSerial.o)
+ .text._ZN14SoftwareSerial3endEv
+                0x00000000        0x6 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\SOFTWA~1\Debug\libSoftwareSerial.a(SoftwareSerial.o)
+ .text          0x00000000        0x0 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .data          0x00000000        0x0 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .bss           0x00000000        0x0 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .text.digitalRead
+                0x00000000       0x52 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .text          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .data          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .bss           0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc   0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+ .text          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .data          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .bss           0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc   0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+ .text          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .data          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .bss           0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.mul
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.div
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .text.libgcc   0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+ .text          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_dtors.o)
+ .data          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_dtors.o)
+ .bss           0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_dtors.o)
+ .text.libgcc.mul
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_dtors.o)
+ .text.libgcc.div
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_dtors.o)
+ .text.libgcc   0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_dtors.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_dtors.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_dtors.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_dtors.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_dtors.o)
+ .text          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .data          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .bss           0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.mul
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.div
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+ .text          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .data          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .bss           0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3.o)
+ .text          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .data          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .bss           0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .text.avr-libc.fplib
+                0x00000000       0xcc f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(addsf3x.o)
+ .text          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .data          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .bss           0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .text.avr-libc.fplib
+                0x00000000        0xa f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(cmpsf2.o)
+ .text          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .data          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .bss           0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .text.avr-libc.fplib
+                0x00000000        0x8 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3.o)
+ .text          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .data          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .bss           0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .text.avr-libc.fplib
+                0x00000000       0xdc f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(divsf3x.o)
+ .text          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .data          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .bss           0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixsfsi.o)
+ .text          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .data          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .bss           0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text.avr-libc.fplib
+                0x00000000       0x5e f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fixunssfsi.o)
+ .text          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .data          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .bss           0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .text.avr-libc.fplib
+                0x00000000       0x7a f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(floatsisf.o)
+ .text          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .data          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .bss           0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .text.avr-libc.fplib
+                0x00000000       0x48 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_cmp.o)
+ .text          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .data          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text.avr-libc.fplib
+                0x00000000        0xc f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_inf.o)
+ .text          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .data          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text.avr-libc.fplib
+                0x00000000        0x6 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_nan.o)
+ .text          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .data          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .data          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .data          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .bss           0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text.avr-libc.fplib
+                0x00000000       0x22 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_round.o)
+ .text          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .data          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text.avr-libc.fplib
+                0x00000000       0x44 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_split3.o)
+ .text          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .data          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text.avr-libc.fplib
+                0x00000000        0xe f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(fp_zero.o)
+ .text          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .data          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .bss           0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .text.avr-libc.fplib
+                0x00000000        0xa f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(gesf2.o)
+ .text          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .data          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text.avr-libc.fplib
+                0x00000000        0x8 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3.o)
+ .text          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .data          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text.avr-libc.fplib
+                0x00000000       0xd2 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(mulsf3x.o)
+ .text          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .data          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .bss           0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .text.avr-libc.fplib
+                0x00000000        0xa f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a(unordsf2.o)
+ .text          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strtol.o)
+ .data          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strtol.o)
+ .bss           0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strtol.o)
+ .text          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(abort.o)
+ .data          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(abort.o)
+ .bss           0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(abort.o)
+ .text.avr-libc
+                0x00000000        0xa f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(abort.o)
+ .text          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(isspace.o)
+ .data          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(isspace.o)
+ .bss           0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(isspace.o)
+ .text          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(errno.o)
+ .data          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(errno.o)
+ .bss           0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(errno.o)
+ .text          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+ .data          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+ .bss           0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+ .text          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulsi3.o)
+ .data          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulsi3.o)
+ .bss           0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc   0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulsi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulsi3.o)
+ .text          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .data          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .bss           0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc   0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+ .text          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+ .data          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+ .bss           0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.mul
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.div
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+ .text.libgcc   0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+ .text          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+ .data          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+ .bss           0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.mul
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.div
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc   0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+ .text          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .data          0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .bss           0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.div
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc   0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00020000         xr
+data             0x00800060         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+Address of section .data set to 0x800100
+LOAD F:/Atmel/7.0/Packs/atmel/ATmega_DFP/1.0.90/gcc/dev/atmega328p/avr5/crtatmega328p.o
+LOAD GeoCache.o
+LOAD main.o
+START GROUP
+LOAD F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a
+LOAD F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\NeoPixel\Debug\libNeoPixel.a
+LOAD F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ONESHE~1\Debug\libOneSheeld.a
+LOAD F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\SOFTWA~1\Debug\libSoftwareSerial.a
+END GROUP
+LOAD f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a
+LOAD f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a
+START GROUP
+LOAD f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a
+LOAD f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libm.a
+LOAD f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a
+LOAD F:/Atmel/7.0/Packs/atmel/ATmega_DFP/1.0.90/gcc/dev/atmega328p/avr5\libatmega328p.a
+END GROUP
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x1276
+ *(.vectors)
+ .vectors       0x00000000       0x68 F:/Atmel/7.0/Packs/atmel/ATmega_DFP/1.0.90/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x00000068                . = ALIGN (0x2)
+                0x00000068                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x00000068        0x0 linker stubs
+ *(.trampolines*)
+                0x00000068                __trampolines_end = .
+ *(.progmem*)
+ .progmem.data.digital_pin_to_timer_PGM
+                0x00000068       0x14 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000068                digital_pin_to_timer_PGM
+ .progmem.data.digital_pin_to_bit_mask_PGM
+                0x0000007c       0x14 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                0x0000007c                digital_pin_to_bit_mask_PGM
+ .progmem.data.digital_pin_to_port_PGM
+                0x00000090       0x14 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000090                digital_pin_to_port_PGM
+ .progmem.data.port_to_input_PGM
+                0x000000a4        0xa F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000000a4                port_to_input_PGM
+ .progmem.data.port_to_output_PGM
+                0x000000ae        0xa F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000000ae                port_to_output_PGM
+ .progmem.data.port_to_mode_PGM
+                0x000000b8        0xa F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                0x000000b8                port_to_mode_PGM
+                0x000000c2                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x000000c2                __ctors_start = .
+ *(.ctors)
+ .ctors         0x000000c2        0x2 GeoCache.o
+ .ctors         0x000000c4        0x2 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x000000c6                __ctors_end = .
+                0x000000c6                __dtors_start = .
+ *(.dtors)
+ .dtors         0x000000c6        0x2 GeoCache.o
+                0x000000c8                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x000000c8        0x0 F:/Atmel/7.0/Packs/atmel/ATmega_DFP/1.0.90/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x000000c8                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x000000c8        0xc F:/Atmel/7.0/Packs/atmel/ATmega_DFP/1.0.90/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x000000d4       0x16 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_copy_data.o)
+                0x000000d4                __do_copy_data
+ .init4         0x000000ea       0x10 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_clear_bss.o)
+                0x000000ea                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ .init6         0x000000fa       0x16 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_ctors.o)
+                0x000000fa                __do_global_ctors
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000110        0x8 F:/Atmel/7.0/Packs/atmel/ATmega_DFP/1.0.90/gcc/dev/atmega328p/avr5/crtatmega328p.o
+ *(.init9)
+ *(.text)
+ .text          0x00000118        0x4 F:/Atmel/7.0/Packs/atmel/ATmega_DFP/1.0.90/gcc/dev/atmega328p/avr5/crtatmega328p.o
+                0x00000118                __vector_22
+                0x00000118                __vector_1
+                0x00000118                __vector_24
+                0x00000118                __vector_12
+                0x00000118                __bad_interrupt
+                0x00000118                __vector_6
+                0x00000118                __vector_23
+                0x00000118                __vector_25
+                0x00000118                __vector_11
+                0x00000118                __vector_13
+                0x00000118                __vector_17
+                0x00000118                __vector_7
+                0x00000118                __vector_9
+                0x00000118                __vector_2
+                0x00000118                __vector_21
+                0x00000118                __vector_15
+                0x00000118                __vector_8
+                0x00000118                __vector_14
+                0x00000118                __vector_10
+                0x00000118                __vector_20
+                0x0000011c                . = ALIGN (0x2)
+ *(.text.*)
+ .text._GLOBAL__sub_I_cstr
+                0x0000011c       0x10 GeoCache.o
+ .text._GLOBAL__sub_D_cstr
+                0x0000012c        0xa GeoCache.o
+ .text._Z13getGPSMessagev
+                0x00000136       0xee GeoCache.o
+                0x00000136                _Z13getGPSMessagev
+ .text.main     0x00000224       0x68 GeoCache.o
+                0x00000224                main
+ .text._ZN14HardwareSerial9availableEv
+                0x0000028c       0x18 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x0000028c                _ZN14HardwareSerial9availableEv
+ .text._ZN14HardwareSerial4peekEv
+                0x000002a4       0x1c F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x000002a4                _ZN14HardwareSerial4peekEv
+ .text._ZN14HardwareSerial4readEv
+                0x000002c0       0x28 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x000002c0                _ZN14HardwareSerial4readEv
+ .text._Z14serialEventRunv
+                0x000002e8       0x1c F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x000002e8                _Z14serialEventRunv
+ .text._ZN14HardwareSerial17_tx_udr_empty_irqEv
+                0x00000304       0x54 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000304                _ZN14HardwareSerial17_tx_udr_empty_irqEv
+ .text._ZN14HardwareSerial5flushEv
+                0x00000358       0x44 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x00000358                _ZN14HardwareSerial5flushEv
+ .text._ZN14HardwareSerial5writeEh
+                0x0000039c       0x9e F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x0000039c                _ZN14HardwareSerial5writeEh
+ .text._ZN14HardwareSerial5beginEmh
+                0x0000043a       0xd2 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x0000043a                _ZN14HardwareSerial5beginEmh
+ .text.__vector_18
+                0x0000050c       0x70 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x0000050c                __vector_18
+ .text.__vector_19
+                0x0000057c       0x4c F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x0000057c                __vector_19
+ .text._Z17Serial0_availablev
+                0x000005c8       0x14 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x000005c8                _Z17Serial0_availablev
+ .text._GLOBAL__sub_I___vector_18
+                0x000005dc       0x5a F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .text._ZN5Print5writeEPKhj
+                0x00000636       0x5a F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x00000636                _ZN5Print5writeEPKhj
+ .text._ZN5Print5printEPKc
+                0x00000690       0x2c F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x00000690                _ZN5Print5printEPKc
+ .text._ZN5Print7printlnEv
+                0x000006bc       0x18 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x000006bc                _ZN5Print7printlnEv
+ .text._ZN5Print7printlnEPKc
+                0x000006d4       0x24 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                0x000006d4                _ZN5Print7printlnEPKc
+ .text.__vector_16
+                0x000006f8       0x94 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+                0x000006f8                __vector_16
+ .text.init     0x0000078c       0x76 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+                0x0000078c                init
+ .text._ZN14SoftwareSerial4readEv
+                0x00000802       0x58 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\SOFTWA~1\Debug\libSoftwareSerial.a(SoftwareSerial.o)
+                0x00000802                _ZN14SoftwareSerial4readEv
+ .text._ZN14SoftwareSerial9availableEv
+                0x0000085a       0x40 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\SOFTWA~1\Debug\libSoftwareSerial.a(SoftwareSerial.o)
+                0x0000085a                _ZN14SoftwareSerial9availableEv
+ .text._ZN14SoftwareSerial5writeEh
+                0x0000089a       0x98 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\SOFTWA~1\Debug\libSoftwareSerial.a(SoftwareSerial.o)
+                0x0000089a                _ZN14SoftwareSerial5writeEh
+ .text._ZN14SoftwareSerial5flushEv
+                0x00000932       0x1e F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\SOFTWA~1\Debug\libSoftwareSerial.a(SoftwareSerial.o)
+                0x00000932                _ZN14SoftwareSerial5flushEv
+ .text._ZN14SoftwareSerial4peekEv
+                0x00000950       0x36 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\SOFTWA~1\Debug\libSoftwareSerial.a(SoftwareSerial.o)
+                0x00000950                _ZN14SoftwareSerial4peekEv
+ .text._ZN14SoftwareSerial13stopListeningEv
+                0x00000986       0x2c F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\SOFTWA~1\Debug\libSoftwareSerial.a(SoftwareSerial.o)
+                0x00000986                _ZN14SoftwareSerial13stopListeningEv
+ .text._ZN14SoftwareSerial6listenEv
+                0x000009b2       0x56 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\SOFTWA~1\Debug\libSoftwareSerial.a(SoftwareSerial.o)
+                0x000009b2                _ZN14SoftwareSerial6listenEv
+ .text.__vector_3
+                0x00000a08      0x15c F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\SOFTWA~1\Debug\libSoftwareSerial.a(SoftwareSerial.o)
+                0x00000a08                __vector_5
+                0x00000a08                __vector_4
+                0x00000a08                __vector_3
+ .text._ZN14SoftwareSerialD2Ev
+                0x00000b64       0x10 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\SOFTWA~1\Debug\libSoftwareSerial.a(SoftwareSerial.o)
+                0x00000b64                _ZN14SoftwareSerialD1Ev
+                0x00000b64                _ZN14SoftwareSerialD2Ev
+ .text._ZN14SoftwareSerial5setTXEh
+                0x00000b74       0x52 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\SOFTWA~1\Debug\libSoftwareSerial.a(SoftwareSerial.o)
+                0x00000b74                _ZN14SoftwareSerial5setTXEh
+ .text._ZN14SoftwareSerial5setRXEh
+                0x00000bc6       0x52 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\SOFTWA~1\Debug\libSoftwareSerial.a(SoftwareSerial.o)
+                0x00000bc6                _ZN14SoftwareSerial5setRXEh
+ .text._ZN14SoftwareSerialC2Ehhb
+                0x00000c18       0x58 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\SOFTWA~1\Debug\libSoftwareSerial.a(SoftwareSerial.o)
+                0x00000c18                _ZN14SoftwareSerialC1Ehhb
+                0x00000c18                _ZN14SoftwareSerialC2Ehhb
+ .text._ZN14SoftwareSerial5beginEl
+                0x00000c70      0x124 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\SOFTWA~1\Debug\libSoftwareSerial.a(SoftwareSerial.o)
+                0x00000c70                _ZN14SoftwareSerial5beginEl
+ .text.turnOffPWM
+                0x00000d94       0x5e F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .text.pinMode  0x00000df2       0x7e F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000df2                pinMode
+ .text.digitalWrite
+                0x00000e70       0x62 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                0x00000e70                digitalWrite
+ .text.libgcc.div
+                0x00000ed2       0x44 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_udivmodsi4.o)
+                0x00000ed2                __udivmodsi4
+ .text.libgcc.div
+                0x00000f16       0x2e f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_divmodsi4.o)
+                0x00000f16                __divmodsi4
+ .text.libgcc.div
+                0x00000f44       0x10 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_negsi2.o)
+                0x00000f44                __negsi2
+ .text.libgcc   0x00000f54        0xc f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_tablejump2.o)
+                0x00000f54                __tablejump2__
+ .text.avr-libc
+                0x00000f60      0x222 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strtol.o)
+                0x00000f60                strtol
+ .text.avr-libc
+                0x00001182       0x12 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(isspace.o)
+                0x00001182                isspace
+ .text.avr-libc
+                0x00001194        0x6 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(cty_isfalse.o)
+                0x00001194                __ctype_isfalse
+                0x00001198                __ctype_istrue
+ .text.libgcc.mul
+                0x0000119a       0x20 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_mulsi3.o)
+                0x0000119a                __mulsi3
+ .text.libgcc.mul
+                0x000011ba       0x16 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_muluhisi3.o)
+                0x000011ba                __muluhisi3
+ .text.libgcc.prologue
+                0x000011d0       0x38 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_prologue.o)
+                0x000011d0                __prologue_saves__
+ .text.libgcc.prologue
+                0x00001208       0x36 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_epilogue.o)
+                0x00001208                __epilogue_restores__
+ .text.libgcc.mul
+                0x0000123e       0x1e f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_umulhisi3.o)
+                0x0000123e                __umulhisi3
+                0x0000125c                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x0000125c        0x0 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+                0x0000125c                _exit
+                0x0000125c                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ .fini6         0x0000125c       0x16 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_dtors.o)
+                0x0000125c                __do_global_dtors
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x00001272        0x4 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/avr5\libgcc.a(_exit.o)
+ *(.fini0)
+                0x00001276                _etext = .
+
+.data           0x00800100       0x8e load address 0x00001276
+                0x00800100                PROVIDE (__data_start, .)
+ *(.data)
+ *(.data*)
+ *(.rodata)
+ *(.rodata*)
+ .rodata.str1.1
+                0x00800100       0x5c GeoCache.o
+ .rodata._ZTV14HardwareSerial
+                0x0080015c       0x10 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+                0x0080015c                _ZTV14HardwareSerial
+ .rodata.str1.1
+                0x0080016c       0x11 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .rodata._ZTV14SoftwareSerial
+                0x0080017d       0x10 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\SOFTWA~1\Debug\libSoftwareSerial.a(SoftwareSerial.o)
+                0x0080017d                _ZTV14SoftwareSerial
+ *(.gnu.linkonce.d*)
+                0x0080018e                . = ALIGN (0x2)
+ *fill*         0x0080018d        0x1 
+                0x0080018e                _edata = .
+                0x0080018e                PROVIDE (__data_end, .)
+
+.bss            0x0080018e      0x18b
+                0x0080018e                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.gps       0x0080018e       0x1f GeoCache.o
+                0x0080018e                gps
+ .bss.cstr      0x008001ad       0x80 GeoCache.o
+                0x008001ad                cstr
+ .bss.Serial    0x0080022d       0x9d F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+                0x0080022d                Serial
+ .bss.timer0_fract
+                0x008002ca        0x1 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .bss.timer0_millis
+                0x008002cb        0x4 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+                0x008002cb                timer0_millis
+ .bss.timer0_overflow_count
+                0x008002cf        0x4 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+                0x008002cf                timer0_overflow_count
+ .bss._ZN14SoftwareSerial20_receive_buffer_headE
+                0x008002d3        0x1 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\SOFTWA~1\Debug\libSoftwareSerial.a(SoftwareSerial.o)
+                0x008002d3                _ZN14SoftwareSerial20_receive_buffer_headE
+ .bss._ZN14SoftwareSerial20_receive_buffer_tailE
+                0x008002d4        0x1 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\SOFTWA~1\Debug\libSoftwareSerial.a(SoftwareSerial.o)
+                0x008002d4                _ZN14SoftwareSerial20_receive_buffer_tailE
+ .bss._ZN14SoftwareSerial15_receive_bufferE
+                0x008002d5       0x40 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\SOFTWA~1\Debug\libSoftwareSerial.a(SoftwareSerial.o)
+                0x008002d5                _ZN14SoftwareSerial15_receive_bufferE
+ .bss._ZN14SoftwareSerial13active_objectE
+                0x00800315        0x2 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\SOFTWA~1\Debug\libSoftwareSerial.a(SoftwareSerial.o)
+                0x00800315                _ZN14SoftwareSerial13active_objectE
+ *(COMMON)
+ COMMON         0x00800317        0x2 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(errno.o)
+                0x00800317                errno
+                0x00800319                PROVIDE (__bss_end, .)
+                0x00001276                __data_load_start = LOADADDR (.data)
+                0x00001304                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00800319        0x0
+                0x00800319                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x00800319                PROVIDE (__noinit_end, .)
+                0x00800319                _end = .
+                0x00800319                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x5c
+ *(.comment)
+ .comment       0x00000000       0x30 GeoCache.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000030       0x31 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+ .comment       0x00000030       0x31 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .comment       0x00000030       0x31 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .comment       0x00000030       0x31 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .comment       0x00000030       0x31 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\SOFTWA~1\Debug\libSoftwareSerial.a(SoftwareSerial.o)
+ .comment       0x00000030       0x31 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+ .comment       0x00000030       0x31 f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(strtol.o)
+ .comment       0x00000030       0x2c f:/atmel/7.0/toolchain/avr8/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.9.2/../../../../avr/lib/avr5\libc.a(errno.o)
+                                 0x2d (size before relaxing)
+
+.note.gnu.avr.deviceinfo
+                0x00000000       0x40
+ .note.gnu.avr.deviceinfo
+                0x00000000       0x40 F:/Atmel/7.0/Packs/atmel/ATmega_DFP/1.0.90/gcc/dev/atmega328p/avr5/crtatmega328p.o
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x2e8
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x38 GeoCache.o
+ .debug_aranges
+                0x00000038       0x68 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_aranges
+                0x000000a0       0x38 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_aranges
+                0x000000d8       0xe8 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .debug_aranges
+                0x000001c0       0x48 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .debug_aranges
+                0x00000208       0xa8 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\SOFTWA~1\Debug\libSoftwareSerial.a(SoftwareSerial.o)
+ .debug_aranges
+                0x000002b0       0x38 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x8c29
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x60c GeoCache.o
+ .debug_info    0x0000060c     0x1a4d F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_info    0x00002059     0x1724 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_info    0x0000377d     0x25a5 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .debug_info    0x00005d22      0x2bb F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .debug_info    0x00005fdd     0x2676 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\SOFTWA~1\Debug\libSoftwareSerial.a(SoftwareSerial.o)
+ .debug_info    0x00008653      0x5d6 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+
+.debug_abbrev   0x00000000     0x159c
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x2b8 GeoCache.o
+ .debug_abbrev  0x000002b8      0x370 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_abbrev  0x00000628      0x35d F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_abbrev  0x00000985      0x3b0 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .debug_abbrev  0x00000d35      0x145 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .debug_abbrev  0x00000e7a      0x5d9 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\SOFTWA~1\Debug\libSoftwareSerial.a(SoftwareSerial.o)
+ .debug_abbrev  0x00001453      0x149 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+
+.debug_line     0x00000000      0xfbe
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x1e8 GeoCache.o
+ .debug_line    0x000001e8      0x250 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_line    0x00000438      0x177 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_line    0x000005af      0x372 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .debug_line    0x00000921      0x115 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .debug_line    0x00000a36      0x4a9 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\SOFTWA~1\Debug\libSoftwareSerial.a(SoftwareSerial.o)
+ .debug_line    0x00000edf       0xdf F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+
+.debug_frame    0x00000000      0x920
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x88 GeoCache.o
+ .debug_frame   0x00000088      0x104 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_frame   0x0000018c       0xcc F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_frame   0x00000258      0x3a8 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .debug_frame   0x00000600       0xbc F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .debug_frame   0x000006bc      0x1e8 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\SOFTWA~1\Debug\libSoftwareSerial.a(SoftwareSerial.o)
+ .debug_frame   0x000008a4       0x7c F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+
+.debug_str      0x00000000     0x1e3e
+ *(.debug_str)
+ .debug_str     0x00000000      0x380 GeoCache.o
+                                0x3ea (size before relaxing)
+ .debug_str     0x00000380      0xf4f F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+                               0x11d9 (size before relaxing)
+ .debug_str     0x000012cf       0x40 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+                                0xfd3 (size before relaxing)
+ .debug_str     0x0000130f      0x396 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+                                0xe79 (size before relaxing)
+ .debug_str     0x000016a5      0x127 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+                                0x22b (size before relaxing)
+ .debug_str     0x000017cc      0x610 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\SOFTWA~1\Debug\libSoftwareSerial.a(SoftwareSerial.o)
+                               0x14dc (size before relaxing)
+ .debug_str     0x00001ddc       0x62 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+                                0x299 (size before relaxing)
+
+.debug_loc      0x00000000     0x3d22
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x139 GeoCache.o
+ .debug_loc     0x00000139      0x447 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_loc     0x00000580      0x17b F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_loc     0x000006fb     0x1ddf F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .debug_loc     0x000024da      0x22a F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .debug_loc     0x00002704     0x105a F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\SOFTWA~1\Debug\libSoftwareSerial.a(SoftwareSerial.o)
+ .debug_loc     0x0000375e      0x5c4 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x338
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x28 GeoCache.o
+ .debug_ranges  0x00000028       0x58 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial.o)
+ .debug_ranges  0x00000080       0x28 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(HardwareSerial0.o)
+ .debug_ranges  0x000000a8       0xf0 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(Print.o)
+ .debug_ranges  0x00000198       0x38 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(wiring.o)
+ .debug_ranges  0x000001d0      0x140 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\SOFTWA~1\Debug\libSoftwareSerial.a(SoftwareSerial.o)
+ .debug_ranges  0x00000310       0x28 F:\FULLSA~1\COMPUT~1\RESOUR~1\RESOUR~1\COASOL~1\ARDUIN~1\Debug\libArduinoCore.a(wiring_digital.o)
+
+.debug_macro
+ *(.debug_macro)
+OUTPUT(GeoHunt.elf elf32-avr)
+LOAD linker stubs
