@@ -83,10 +83,10 @@ may not be sufficient room in the FLASH or DATA memory to enable all these
 libraries at the same time.  You are only permitted to have NEO_ON, ONE_ON
 and SDC_ON during the GeoCache Treasure Hunt.
 */
-#define NEO_ON 0		// NeoPixelShield
+#define NEO_ON 1		// NeoPixelShield
 #define TRM_ON 1		// SerialTerminal
-#define ONE_ON 1		// 1Sheeld
-#define SDC_ON 0		// SecureDigital
+#define ONE_ON 0		// 1Sheeld
+#define SDC_ON 1		// SecureDigital
 #define GPS_ON 1		// GPSShield (off = simulated)
 
 // define pin usage
@@ -117,6 +117,7 @@ Adafruit_NeoPixel strip = Adafruit_NeoPixel(40, NEO_TX, NEO_GRB + NEO_KHZ800);
 
 #if SDC_ON
 #include "SecureDigital.h"
+File dataFile;
 #endif
 
 /*
@@ -153,14 +154,91 @@ These are GPS command messages (only a few are used).
 #define PMTK_SET_NMEA_OUTPUT_OFF "$PMTK314,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0*28"
 #endif
 
+float theDist;
+float Hopefully0;
+
 #if NEO_ON
 
+bool Debounce(unsigned int thePin);
+
+
+//uint32_t RED = strip.Color(255,0,0);
+//uint32_t GREEN = strip.Color(0,255,0);
+//uint32_t BLUE = strip.Color(0,0,255);
+//uint32_t ORANGE = strip.Color(255,100,0);
+//uint32_t YELLOW = strip.Color(255,255,0);
+//uint32_t WHITE = strip.Color(255,255,255);
+//uint32_t NOLIGHT = strip.Color(0,0,0);
 /*
 Sets target number, heading and distance on NeoPixel Display
 */
-void setNeoPixel(uint8_t target, float heading, float distance)
+void setNeoPixel()
 {
-	// add code here
+	strip.setPixelColor(0,strip.Color(255,255,255));
+	strip.setPixelColor(7,strip.Color(255,255,255));
+	strip.setPixelColor(1,strip.Color(255,255,255));
+	strip.setPixelColor(2,strip.Color(255,0,0));
+	strip.setPixelColor(3,strip.Color(255,0,0));
+	strip.setPixelColor(4,strip.Color(255,0,0));
+	strip.setPixelColor(5,strip.Color(255,0,0));
+	strip.setPixelColor(6,strip.Color(255,255,255));
+
+	strip.setPixelColor(currentCoord + 2, strip.Color(0,255,0));
+	uint32_t CurrentColor = strip.Color(0,255,0);
+	
+	if(theDist > 255)
+	{
+	theDist *= 0.30f;
+	CurrentColor = strip.Color(255,255,0);
+	}
+	if(theDist > 255)
+	{
+	theDist *= 0.01f;
+	CurrentColor = strip.Color(50,0,255);
+	}
+
+	uint8_t BinDist = (uint8_t)theDist;
+
+	for(int i = 0; i < 8; i++)
+	{
+		if(BinDist & (1<<i))
+		strip.setPixelColor(i+8, CurrentColor);
+		else
+		strip.setPixelColor(i+8, strip.Color(0,0,0));
+	}
+
+	strip.setPixelColor(16,0);
+	strip.setPixelColor(17,0);
+	strip.setPixelColor(18,0);
+	strip.setPixelColor(24,0);
+	strip.setPixelColor(25,strip.Color(255,255,255));
+	strip.setPixelColor(26,0);
+	strip.setPixelColor(32,0);
+	strip.setPixelColor(33,0);
+	strip.setPixelColor(34,0);
+
+	if(Hopefully0 > 293 && Hopefully0 < 338)
+	strip.setPixelColor(16,strip.Color(0,0,255));
+	else if((Hopefully0 > 338 && Hopefully0 < 360) || (Hopefully0 > 0 && Hopefully0 < 22))
+	strip.setPixelColor(17,strip.Color(0,0,255));
+	else if(Hopefully0 > 22 && Hopefully0 < 67)
+	strip.setPixelColor(18,strip.Color(0,0,255));
+	
+	else if(Hopefully0 >248 && Hopefully0 < 292)
+	strip.setPixelColor(24,strip.Color(0,0,255));
+	
+	else if(Hopefully0 >67 && Hopefully0 < 112)
+	strip.setPixelColor(26,strip.Color(0,0,255));
+	
+	
+	else if(Hopefully0 >203 && Hopefully0 < 248)
+	strip.setPixelColor(32,strip.Color(0,0,255));
+	else if(Hopefully0 >158 && Hopefully0 < 203)
+	strip.setPixelColor(33,strip.Color(0,0,255));
+	else if(Hopefully0 >112 && Hopefully0 < 158)
+	strip.setPixelColor(34,strip.Color(0,0,255));
+
+	strip.show();
 }
 
 #endif
@@ -187,7 +265,7 @@ void getGPSMessage(void)
 
 	memset(cstr, 0, sizeof(cstr));
 	
-	// get nmea string
+	// get name string
 	while (true)
 	{
 		if (gps.peek() != -1)
@@ -287,11 +365,13 @@ false
 int main(void)
 {
 	// variables
-	
 	init();
-
+	initiateCoords();
+	strip.begin();
+	strip.setBrightness(12);
+	strip.show();
 	// init target button
-
+	pinMode(4, INPUT_PULLUP);
 	#if TRM_ON
 	Serial.begin(115200);
 	#endif
@@ -311,6 +391,23 @@ int main(void)
 	sequential number of the file.  The filename can not be more than 8
 	chars in length (excluding the ".txt").
 	*/
+	SD.begin();
+	
+	int count = 0;
+	char filename[8];
+	while(true)
+	{
+		sprintf(filename,"File%i", count );	
+		if(SD.exists(filename))
+			count++;
+		else 
+		break;
+	}
+
+		
+	dataFile = SD.open(filename, FILE_WRITE);
+	Serial.println(filename);
+
 	#endif
 	
 	// enable GPS sending GPRMC message
@@ -321,10 +418,27 @@ int main(void)
 	gps.println(PMTK_SET_NMEA_OUTPUT_RMC);
 	#endif
 	
+	bool buttondown = false;
+
+	
 	while (true)
 	{
 		// returns with message once a second
 		getGPSMessage();
+		
+		if(Debounce(4))
+		{
+			if(!buttondown) // Do Once
+			{
+				ChangeDest();
+				buttondown	= true;
+			}
+		}
+		else
+		{
+			buttondown = false;
+		}
+		
 		
 		// if GPRMC message (3rd letter = R)
 		while (cstr[3] == 'R')
@@ -344,46 +458,77 @@ int main(void)
 		
 		// set NeoPixel target display
 		#if NEO_ON
-		setNeoPixel(target, heading, distance);
 		#endif
 		
 		#if ONE_ON
 		// print debug information to OneSheeld Terminal
 		#endif
 
-		#if TRM_ON
+		#if 1
 		// print debug information to Serial Terminal
 		//Serial.println(cstr);
 		ParseData(cstr);
-		float theDist = CalculateDistance(DegLong, DegLat, -81.3056f ,28.5953f);
+		theDist = CalculateDistance(DegLong, DegLat, theCoords[currentCoord].Lon ,theCoords[currentCoord].Lat);
+		
+		
+		Hopefully0 = CalcBearing(DegLong, DegLat,  theCoords[currentCoord].Lon ,theCoords[currentCoord].Lat);
+		
+		Hopefully0 -= COG;
+		
+		Hopefully0 = fmod(Hopefully0, 360);
+		if(Hopefully0 < 0)
+		Hopefully0 += 360;
 		
 		char lat[12];
-		dtostrf(DegLat, 4,4,lat);
+		dtostrf(DegLat, 4,6,lat);
 		char lon[12];
-		dtostrf(DegLong, 4,4,lon);
-				char co[12];
-				dtostrf(COG, 5,2,co);
-		sprintf(PrintInfo, "La:%s%sLo:%s%sCOG:%s", lat, NSInd, lon, EWInd, co);
+		dtostrf(DegLong, 4,6,lon);
+		//char co[12];
+		//dtostrf(COG, 5,2,co);
+		char dis[24];
+		dtostrf(theDist, 4,6,dis);
+		//char bearit[12];
+		//dtostrf(Hopefully0, 4,4,bearit);
+		//sprintf(cstr, "Lat: %s%s Lon: %s%s COG: %s Dist: %s Bear: %s", lon, lat, dis);
+		sprintf(cstr, "%s, %s, %s", lon, lat, dis);
 		//Serial.println(PrintInfo);
 		//Serial.println(theDist);
 		
-		Terminal.println(PrintInfo);
+		//Terminal.println(PrintInfo);
 		
-		char dis[12];
-		dtostrf(theDist, 4,4,dis);
-		Terminal.println(dis);
+
+		////Terminal.println(dis);
+
 		
-		float Hopefully0 = CalcBearing(DegLong, DegLat, -81.3056f ,28.5953f);
-		
-				char bearit[12];
-				dtostrf(Hopefully0, 4,4,bearit);
-				Terminal.println(bearit);
+		////Terminal.println(bearit);
 		#endif
 		
+		setNeoPixel();
+		
+		#if SDC_ON
+		// make a string for assembling the data to log:
+		dataFile.println(cstr);
+		//	  Terminal.println(cstr);
+		dataFile.flush();
+		#endif
+
+
 		// if button pressed, set new target
 
 		if (serialEventRun) serialEventRun();
 	}
-	
+	//dataFile.close();
 	return(false);
+}
+
+bool Debounce(unsigned int thePin)
+{
+	
+	for(int i = 0; i < 100; i++)
+	{
+		if(digitalRead(thePin) == HIGH)
+		return false;
+	}
+	
+	return true;
 }
